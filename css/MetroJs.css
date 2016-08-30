@@ -1,12 +1,18 @@
 /* Center */
 #mydiv {
     position:fixed;
-    top: 50%;
-    left: 50%;
-    width:30em;
+    top: 65%;
+    left: 70%;
+    width:50em;
     height:18em;
     margin-top: -9em; /*set to a negative number 1/2 of your height*/
     margin-left: -15em; /*set to a negative number 1/2 of your width*/
+}
+
+#mydiv img {
+    width: 135px;
+    height:135px;
+    margin-right: 100px;
 }
 /* Sizes */
 .live-tile,
